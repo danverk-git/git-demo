@@ -1,1 +1,2 @@
 Text for commit1
+Text for commit #2
